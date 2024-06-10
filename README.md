@@ -1,2 +1,57 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/yB0YHWmd)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15246634&assignment_repo_type=AssignmentRepo)
+## 1. 요구사항
+
+**[기말고사]**<br>
+- 제품 review 데이터의 감성 분석
+
+<br>
+
+**[개요]**<br>
+- 학생들은 텍스트 데이터를 감성으로 분류하는 감성 분석 시스템을 개발합니다.
+- 이 프로젝트는 전처리, 모델 선택, 학습, 평가 및 결과 시각화를 포함합니다.<br>
+
+<br>
+
+**[목표]**<br>
+- 감성 분석의 기본 이해: 감성 분석이 무엇이며 그 응용에 대해 학습
+- 데이터 전처리: 머신 러닝 작업을 위해 데이터 전 처리하는 경험을 쌓음
+- 모델 선택 및 학습: 수업에서 활용한 모델을 활용해서 구현하고 그 강점과 약점을 이해
+- 평가: 적절한 지표를 사용하여 모델의 성능을 평가
+- 시각화 및 해석: 결과를 시각화하고 해석<br>
+
+<br>
+
+**[데이터]**<br>
+- amazon_uk_shoes_products_dataset_2021_12.csv
+
+<br>
+
+**[데이터 전처리]**<br>
+- 데이터 정리 (노이즈 제거, 결측값 처리 등)
+- 텍스트 토큰화 및 불용어 제거
+- 텍스트 정규화 (스테밍 또는 표제어 추출)
+<br>
+
+**[모델 구현]**<br>
+- 수업에서 홯용한 모델을 적용
+<br>
+
+**[모델학습 및 튜닝]**<br>
+- 데이터셋을 학습 및 테스트 세트로 분할
+- 모델 학습 및 하이퍼파라미터 튜닝 (예: 그리드 서치 또는 랜덤 서치 사용)
+- 교차 검증과 같은 기술을 사용하여 견고성 보장
+<br>
+
+**[모델 평가]**<br>
+- 정확도, 정밀도, 재현율, F1 점수 및 ROC-AUC와 같은 지표를 사용하여 모델 평가
+- 오버피팅과 언더피팅을 논의하고 이를 해결하는 방법 학습
+<br>
+
+**[시각화 및 보고]**<br>
+- Matplotlib 또는 Seaborn과 같은 라이브러리를 사용하여 결과 시각화
+- 혼동 행렬 및 ROC 곡선 생성
+- 보고서에 결과 요약
+
+<br><br>
+## 2. 결과 요약
+
+(추후 추가)
